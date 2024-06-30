@@ -5,24 +5,24 @@ This repository contains an SQL script to manage a bank database. The script cre
 
 ## Setup
 1. Using Local MySQL Installation: 
-  1. Ensure MySQL is installed.
-  2. Clone this repository:
-  ```sh
-  git clone https://github.com/Learner062022/Bank-Database-Management-System.git
-  ```
-  3. Navigate to the project directory:
-  ```sh
-  cd triggers.sql
-  ```
-  4. Open and copy the file's content.
-  5. Paste the contents into your MySQL client or command line interface and execute it:
-  ```sh
-  mysql -u yourusername -p yourpassword < triggers.sql
-  ```
+    1. Ensure MySQL is installed.
+    2. Clone this repository:
+    ```sh
+    git clone https://github.com/Learner062022/Bank-Database-Management-System.git
+    ```
+    3. Navigate to the project directory:
+    ```sh
+    cd triggers.sql
+    ```
+    4. Open and copy the file's content.
+    5. Paste the contents into your MySQL client or command line interface and execute it:
+    ```sh
+    mysql -u yourusername -p yourpassword < triggers.sql
+    ```
 2. Using an Online MySQL Compiler:
-  1. Open your preferred online MySQL compiler.
-  2. Copy the file's contents.
-  3. Paste and execute the contents into the online compiler.
+    1. Open your preferred online MySQL compiler.
+    2. Copy the file's contents.
+    3. Paste and execute the contents into the online compiler.
 
 ## Database Schema
 The database schema includs the following tables:
@@ -59,15 +59,15 @@ SELECT * FROM accounts;
 
 ## Contributing
 1. Fork the repository.
-2. Create a new branch
+2. Create a new branch.
  ```sh
  git checkout -b feature-branch
   ```
-3. Commit changes
+3. Commit changes.
  ```sh
 git commit -m 'Add new feature'
   ```
-4. Push to the branch
+4. Push to the branch.
  ```sh
 git push origin feature-branch
   ```
