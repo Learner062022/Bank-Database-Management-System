@@ -8,7 +8,7 @@ This repository contains an SQL script to manage a bank database. The script cre
   1. Ensure MySQL is installed.
   2. Clone this repository:
   ```sh
-  https://github.com/Learner062022/Bank-Database-Management-System.git
+  git clone https://github.com/Learner062022/Bank-Database-Management-System.git
   ```
   3. Navigate to the project directory:
   ```sh
@@ -63,15 +63,15 @@ SELECT * FROM accounts;
  ```sh
  git checkout -b feature-branch
   ```
-5. Commit changes
+3. Commit changes
  ```sh
 git commit -m 'Add new feature'
   ```
-7. Push to the branch
+4. Push to the branch
  ```sh
 git push origin feature-branch
   ```
-9. Create a new Pull Request.
+5. Create a new Pull Request.
 
 ## License
 [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.txt)
