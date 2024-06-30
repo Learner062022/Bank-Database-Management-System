@@ -12,12 +12,12 @@ This repository contains an SQL script to manage a bank database. The script cre
   ```
   3. Navigate to the project directory:
   ```sh
-  cd Triggers.sql
+  cd triggers.sql
   ```
   4. Open and copy the file's content.
   5. Paste the contents into your MySQL client or command line interface and execute it:
   ```sh
-  mysql -u yourusername -p yourpassword < Triggers.sql
+  mysql -u yourusername -p yourpassword < triggers.sql
   ```
 2. Using an Online MySQL Compiler:
   1. Open your preferred online MySQL compiler.
