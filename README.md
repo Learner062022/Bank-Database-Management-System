@@ -1,4 +1,4 @@
-# Bank Database Management System
+# BankDBManagementSystem
 
 ## Overview
 This repository contains an SQL script to manage a bank database. The script creates tables for customers and accounts, implements a procedure for monthly interest calculations, maintains a change log for auditing purposes and handles the deletion of customer accounts with appropriate logging.
