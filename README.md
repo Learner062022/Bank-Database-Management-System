@@ -8,7 +8,7 @@ This repository contains an SQL script to manage a bank database. The script cre
     1. Ensure MySQL is installed.
     2. Clone this repository:
     ```sh
-    git clone https://github.com/Learner062022/Bank-Database-Management-System.git
+    git clone https://github.com/Learner062022/BankDBManagementSystem.git
     ```
     3. Navigate to the project directory:
     ```sh
