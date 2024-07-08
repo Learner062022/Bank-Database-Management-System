@@ -1,5 +1,5 @@
 CREATE TABLE IF NOT EXISTS customer_contacts (
-    mobile CHAR(9) NOT NULL,
+    mobile CHAR(10) NOT NULL,
     email VARCHAR(50) NOT NULL PRIMARY KEY
 );
 
